@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/api/Api/Api.csproj": {}
+    "/workspaces/api/api.csproj": {}
   },
   "projects": {
-    "/workspaces/api/Api/Api.csproj": {
+    "/workspaces/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/api/Api/Api.csproj",
-        "projectName": "Api",
-        "projectPath": "/workspaces/api/Api/Api.csproj",
+        "projectUniqueName": "/workspaces/api/api.csproj",
+        "projectName": "api",
+        "projectPath": "/workspaces/api/api.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/api/Api/obj/",
+        "outputPath": "/workspaces/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
